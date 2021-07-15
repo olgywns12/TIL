@@ -31,5 +31,29 @@
   * 들여쓰기  됩니다.
     * 쉽네요. 맛집이네요.
 
-[GOOGLE](https://google.com)
+[GOOGLE](https://google.com) 
+
+
+
+![ssafy](markdown_test.assets/header-logo.jpg)
+
+
+
+`inline` 
+
+```
+html
+```
+
+**변수**
+
+> 열이 나는건지 더운건지 헛갈리네요
+
+수평선
+
+---
+
+
+
+자격 증명 관리자?! 
 
